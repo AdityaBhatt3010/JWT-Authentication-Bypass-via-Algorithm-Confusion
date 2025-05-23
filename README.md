@@ -173,6 +173,6 @@ JWTs are powerful, but **power comes with responsibility**. One subtle misconfig
 
 ---
 
-> ✨ **Happy Hacking** and may your payloads always execute!
-> Written by: Aditya Bhatt | InfoSec WriteUps Contributor
-> 🐦 [Follow me on Medium](https://medium.com/@yourhandle) | 🔒 Ethical Hacking | 🧠 Cybersecurity Researcher
+> ✨ **Happy Hacking** and may your payloads always execute! <br/>
+> Written by: Aditya Bhatt | InfoSec WriteUps Contributor <br/>
+> 🐦 [Follow me on Medium](https://medium.com/@yourhandle) | 🔒 Ethical Hacking | 🧠 Cybersecurity Researcher <br/>
