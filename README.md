@@ -8,6 +8,8 @@ In this **PortSwigger Expert-level lab**, we exploit **algorithm confusion** by 
 
 In short: we become an **admin without ever knowing the private key**. Let's break it down.
 
+![JWT_NewNewNew_Cover](https://github.com/user-attachments/assets/2dd898a2-b17b-4c31-8883-fa12cd90e247) <br/>
+
 ---
 
 ## 🎯 Lab Objective
